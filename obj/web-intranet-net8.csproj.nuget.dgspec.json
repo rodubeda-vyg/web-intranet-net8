@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Proyects-net8\\web-intranet-net8\\web-intranet-net8.csproj": {}
+    "C:\\Proyects-net8\\web-intranet-net8\\web-intranet-net8.csproj": {}
   },
   "projects": {
-    "c:\\Proyects-net8\\web-intranet-net8\\web-intranet-net8.csproj": {
+    "C:\\Proyects-net8\\web-intranet-net8\\web-intranet-net8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Proyects-net8\\web-intranet-net8\\web-intranet-net8.csproj",
+        "projectUniqueName": "C:\\Proyects-net8\\web-intranet-net8\\web-intranet-net8.csproj",
         "projectName": "web-intranet-net8",
-        "projectPath": "c:\\Proyects-net8\\web-intranet-net8\\web-intranet-net8.csproj",
+        "projectPath": "C:\\Proyects-net8\\web-intranet-net8\\web-intranet-net8.csproj",
         "packagesPath": "C:\\Users\\rodub\\.nuget\\packages\\",
-        "outputPath": "c:\\Proyects-net8\\web-intranet-net8\\obj\\",
+        "outputPath": "C:\\Proyects-net8\\web-intranet-net8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
